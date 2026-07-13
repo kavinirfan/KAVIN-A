@@ -70,7 +70,7 @@ Donation management platform connecting donors with orphanages and old-age homes
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KAVIN-A&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center"><i>Open to software engineering and data analytics internship opportunities.</i></p>
